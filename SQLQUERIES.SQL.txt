@@ -1,0 +1,52 @@
+-- 1. Check dataset
+SELECT * 
+FROM marine_projects
+LIMIT 10;
+
+-- 2. Total projects
+SELECT COUNT(*) AS total_projects
+FROM marine_projects;
+
+-- 3. Average project budget
+SELECT AVG(Budget) AS avg_project_budget
+FROM marine_projects;
+
+-- 4. Average project delay
+SELECT AVG(julianday(ActualCompletion) - julianday(PlannedCompletion)) 
+AS avg_delay_days
+FROM marine_projects;
+
+-- 5. Projects with cost overrun
+SELECT ProjectName, Budget, ActualCost,
+(ActualCost - Budget) AS CostOverrun
+FROM marine_projects
+WHERE ActualCost > Budget;
+
+-- 6. Top expensive projects
+SELECT ProjectName, ActualCost
+FROM marine_projects
+ORDER BY ActualCost DESC
+LIMIT 10;
+
+-- 7. Delay by location
+SELECT Location,
+AVG(julianday(ActualCompletion) - julianday(PlannedCompletion)) AS avg_delay
+FROM marine_projects
+GROUP BY Location
+ORDER BY avg_delay DESC;
+
+-- 8. Cost overrun by project type
+SELECT ProjectType,
+AVG(ActualCost - Budget) AS avg_cost_overrun
+FROM marine_projects
+GROUP BY ProjectType;
+
+-- 9. Weather delay impact
+SELECT AVG(WeatherDelayDays) AS avg_weather_delay
+FROM marine_projects;
+
+-- 10. Resource usage
+SELECT ProjectName, LabourHours, EquipmentHours
+FROM marine_projects
+ORDER BY LabourHours DESC
+LIMIT 10;
