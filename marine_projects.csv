@@ -1,0 +1,201 @@
+ProjectID,ProjectName,Location,ProjectType,Contractor,StartDate,PlannedCompletion,ActualCompletion,Budget,ActualCost,LabourHours,EquipmentHours,WeatherDelayDays
+1001,Port Expansion Project 1,Mumbai,Port Expansion,HarborWorks,08/09/2022,03/05/2023,30/04/2023,9177968,9107863,5967,1356,0
+1002,Port Expansion Project 2,Mumbai,Port Expansion,ABC Marine Ltd,12/08/2022,08/04/2023,22/05/2023,8050099,7661398,3128,3932,20
+1003,Breakwater Construction Project 3,Visakhapatnam,Breakwater Construction,OceanBuild Pvt Ltd,05/04/2023,29/02/2024,15/03/2024,9789994,9317251,2807,3859,5
+1004,Offshore Platform Project 4,Chennai,Offshore Platform,OceanBuild Pvt Ltd,11/12/2022,05/07/2023,26/06/2023,6187061,6092718,4440,2408,0
+1005,Port Expansion Project 5,Tuticorin,Port Expansion,Coastal Infra,04/07/2023,31/01/2024,28/02/2024,3661023,5476449,3901,3574,12
+1006,Offshore Platform Project 6,Kandla,Offshore Platform,OceanBuild Pvt Ltd,13/03/2022,20/09/2022,23/11/2022,4911749,5625530,2153,1953,34
+1007,Harbor Deepening Project 7,Kochi,Harbor Deepening,Coastal Infra,09/01/2023,18/08/2023,14/09/2023,5980226,6358962,3687,3874,15
+1008,Port Expansion Project 8,Kandla,Port Expansion,OceanBuild Pvt Ltd,01/07/2023,01/07/2024,12/07/2024,4370719,5809578,4608,2105,6
+1009,Breakwater Construction Project 9,Chennai,Breakwater Construction,HarborWorks,27/02/2022,23/10/2022,16/01/2023,3269276,4092381,4786,2096,19
+1010,Breakwater Construction Project 10,Tuticorin,Breakwater Construction,HarborWorks,06/08/2022,19/07/2023,31/08/2023,6318800,7743364,2670,2084,11
+1011,Breakwater Construction Project 11,Kandla,Breakwater Construction,HarborWorks,22/08/2023,06/06/2024,30/07/2024,6350414,7368737,3296,1566,21
+1012,Port Expansion Project 12,Mumbai,Port Expansion,ABC Marine Ltd,06/06/2022,12/05/2023,12/05/2023,9644443,10915110,2020,2576,0
+1013,Harbor Deepening Project 13,Kandla,Harbor Deepening,HarborWorks,21/07/2023,24/08/2024,05/08/2024,8706630,8687094,5898,2092,0
+1014,Offshore Platform Project 14,Mumbai,Offshore Platform,HarborWorks,22/03/2023,28/10/2023,05/12/2023,3027223,3631956,5600,1731,15
+1015,Port Expansion Project 15,Tuticorin,Port Expansion,HarborWorks,04/06/2023,04/05/2024,09/05/2024,4282108,5350416,2823,3209,2
+1016,Breakwater Construction Project 16,Mumbai,Breakwater Construction,BlueWave Engineering,28/11/2022,29/09/2023,11/09/2023,3938414,4960865,4019,1980,0
+1017,Breakwater Construction Project 17,Mumbai,Breakwater Construction,ABC Marine Ltd,13/05/2023,04/06/2024,23/05/2024,9380393,11114724,2530,1525,0
+1018,Breakwater Construction Project 18,Chennai,Breakwater Construction,HarborWorks,25/06/2023,01/08/2024,27/09/2024,6549538,6937884,5917,3989,27
+1019,Offshore Platform Project 19,Visakhapatnam,Offshore Platform,HarborWorks,25/03/2023,08/05/2024,23/06/2024,6787340,6794868,3530,1920,10
+1020,Port Expansion Project 20,Kandla,Port Expansion,BlueWave Engineering,24/08/2022,20/07/2023,28/07/2023,3060321,2858087,1982,1937,1
+1021,Port Expansion Project 21,Kochi,Port Expansion,ABC Marine Ltd,11/06/2023,06/02/2024,21/02/2024,8611792,10147767,3255,3208,3
+1022,Breakwater Construction Project 22,Kandla,Breakwater Construction,Coastal Infra,06/09/2022,21/09/2023,31/10/2023,9773775,10981108,3059,1386,9
+1023,Harbor Deepening Project 23,Kochi,Harbor Deepening,Coastal Infra,25/02/2023,21/12/2023,20/03/2024,9115931,8843141,2306,1248,32
+1024,Offshore Platform Project 24,Mumbai,Offshore Platform,OceanBuild Pvt Ltd,16/07/2022,01/03/2023,18/04/2023,6763243,6851210,4956,1751,14
+1025,Dock Construction Project 25,Mumbai,Dock Construction,Coastal Infra,18/07/2023,08/02/2024,25/01/2024,8470587,10237977,1620,1382,0
+1026,Dock Construction Project 26,Chennai,Dock Construction,Coastal Infra,13/05/2023,11/03/2024,18/03/2024,6364169,6110103,2848,2552,1
+1027,Harbor Deepening Project 27,Kochi,Harbor Deepening,Coastal Infra,20/10/2022,04/08/2023,12/10/2023,9127922,10958983,5486,1634,19
+1028,Dock Construction Project 28,Mumbai,Dock Construction,BlueWave Engineering,10/07/2023,21/01/2024,05/04/2024,5630707,5370475,1910,3392,29
+1029,Breakwater Construction Project 29,Chennai,Breakwater Construction,ABC Marine Ltd,05/06/2023,22/12/2023,19/03/2024,4558812,4346211,2056,3765,47
+1030,Harbor Deepening Project 30,Mumbai,Harbor Deepening,BlueWave Engineering,10/09/2022,04/08/2023,29/09/2023,3333377,3177240,4934,3692,24
+1031,Breakwater Construction Project 31,Kochi,Breakwater Construction,HarborWorks,29/07/2022,15/07/2023,24/09/2023,5635565,6136686,3675,2621,17
+1032,Offshore Platform Project 32,Visakhapatnam,Offshore Platform,HarborWorks,16/03/2022,14/09/2022,22/10/2022,8210661,10072027,2319,1300,15
+1033,Breakwater Construction Project 33,Kochi,Breakwater Construction,OceanBuild Pvt Ltd,24/12/2022,02/02/2024,21/01/2024,5049206,6099114,3834,1646,0
+1034,Breakwater Construction Project 34,Tuticorin,Breakwater Construction,HarborWorks,26/06/2023,25/12/2023,28/02/2024,9854366,11680536,3952,3717,15
+1035,Dock Construction Project 35,Kochi,Dock Construction,ABC Marine Ltd,20/04/2022,25/04/2023,14/06/2023,4303991,4946302,3808,3477,14
+1036,Offshore Platform Project 36,Chennai,Offshore Platform,HarborWorks,02/06/2023,02/04/2024,14/04/2024,3426132,3313259,4969,2133,2
+1037,Offshore Platform Project 37,Chennai,Offshore Platform,HarborWorks,15/06/2022,19/06/2023,25/07/2023,7627830,8921678,1579,1458,8
+1038,Dock Construction Project 38,Kandla,Dock Construction,ABC Marine Ltd,14/01/2023,09/12/2023,28/01/2024,4242300,5544956,2544,1171,16
+1039,Port Expansion Project 39,Kochi,Port Expansion,OceanBuild Pvt Ltd,13/09/2022,29/08/2023,22/08/2023,5966871,7815192,4829,3542,0
+1040,Dock Construction Project 40,Chennai,Dock Construction,OceanBuild Pvt Ltd,27/02/2023,01/09/2023,03/09/2023,9178750,10072036,4872,3743,1
+1041,Dock Construction Project 41,Kochi,Dock Construction,OceanBuild Pvt Ltd,21/04/2022,23/01/2023,07/01/2023,6948434,7381388,3134,2885,0
+1042,Dock Construction Project 42,Chennai,Dock Construction,ABC Marine Ltd,17/07/2022,25/04/2023,17/05/2023,5337091,5128262,3786,2438,10
+1043,Harbor Deepening Project 43,Tuticorin,Harbor Deepening,BlueWave Engineering,06/12/2022,30/01/2024,13/01/2024,3967556,4563171,2962,3378,0
+1044,Offshore Platform Project 44,Mumbai,Offshore Platform,ABC Marine Ltd,21/03/2023,14/12/2023,25/02/2024,9597037,10412695,5074,3483,43
+1045,Port Expansion Project 45,Visakhapatnam,Port Expansion,BlueWave Engineering,14/07/2022,16/03/2023,01/03/2023,8945721,10274678,1513,3129,0
+1046,Breakwater Construction Project 46,Tuticorin,Breakwater Construction,OceanBuild Pvt Ltd,08/01/2023,25/10/2023,13/10/2023,8572029,9456988,4071,3717,0
+1047,Offshore Platform Project 47,Kandla,Offshore Platform,HarborWorks,23/02/2023,13/11/2023,14/12/2023,8848608,9588675,2542,1785,11
+1048,Harbor Deepening Project 48,Tuticorin,Harbor Deepening,OceanBuild Pvt Ltd,06/08/2023,19/04/2024,20/05/2024,7596430,7098132,3989,2175,8
+1049,Breakwater Construction Project 49,Kandla,Breakwater Construction,HarborWorks,22/04/2023,09/02/2024,16/03/2024,8667572,9063900,5687,2938,18
+1050,Dock Construction Project 50,Tuticorin,Dock Construction,ABC Marine Ltd,18/10/2022,25/08/2023,28/10/2023,8309492,9215373,2265,1962,30
+1051,Dock Construction Project 51,Chennai,Dock Construction,OceanBuild Pvt Ltd,26/01/2022,05/08/2022,16/08/2022,6985732,6791195,5230,2697,6
+1052,Breakwater Construction Project 52,Chennai,Breakwater Construction,Coastal Infra,22/05/2023,28/02/2024,10/03/2024,4237918,3761174,2373,2741,3
+1053,Breakwater Construction Project 53,Visakhapatnam,Breakwater Construction,ABC Marine Ltd,25/07/2023,24/03/2024,20/06/2024,4018029,5432568,2592,2903,41
+1054,Breakwater Construction Project 54,Kandla,Breakwater Construction,HarborWorks,30/03/2023,29/02/2024,23/05/2024,9033707,10650900,4995,3244,31
+1055,Dock Construction Project 55,Tuticorin,Dock Construction,Coastal Infra,06/04/2023,08/12/2023,22/02/2024,5073997,5737125,5770,2984,34
+1056,Offshore Platform Project 56,Visakhapatnam,Offshore Platform,ABC Marine Ltd,20/10/2022,17/06/2023,01/07/2023,5817293,6658252,5924,1330,3
+1057,Dock Construction Project 57,Visakhapatnam,Dock Construction,OceanBuild Pvt Ltd,08/08/2022,20/02/2023,25/03/2023,6419191,7307008,5945,2908,12
+1058,Dock Construction Project 58,Visakhapatnam,Dock Construction,Coastal Infra,22/08/2023,14/08/2024,27/07/2024,9422272,11336892,4616,2953,0
+1059,Offshore Platform Project 59,Kochi,Offshore Platform,Coastal Infra,06/03/2023,17/01/2024,01/04/2024,9162557,10953201,3306,2999,21
+1060,Harbor Deepening Project 60,Visakhapatnam,Harbor Deepening,ABC Marine Ltd,03/02/2023,27/10/2023,31/12/2023,8697055,9892882,2852,2914,36
+1061,Breakwater Construction Project 61,Kandla,Breakwater Construction,ABC Marine Ltd,08/02/2023,05/01/2024,26/02/2024,8561645,8175319,2187,3632,19
+1062,Harbor Deepening Project 62,Chennai,Harbor Deepening,ABC Marine Ltd,24/09/2022,28/06/2023,19/07/2023,4775535,6182682,4177,2382,10
+1063,Harbor Deepening Project 63,Kochi,Harbor Deepening,Coastal Infra,16/09/2022,14/10/2023,04/10/2023,6945219,6526518,5918,1213,0
+1064,Offshore Platform Project 64,Chennai,Offshore Platform,ABC Marine Ltd,11/02/2022,19/02/2023,02/02/2023,5074362,5410541,1666,3544,0
+1065,Dock Construction Project 65,Visakhapatnam,Dock Construction,ABC Marine Ltd,01/08/2023,23/03/2024,01/05/2024,8867537,9442300,4521,1687,17
+1066,Port Expansion Project 66,Chennai,Port Expansion,HarborWorks,21/04/2022,15/03/2023,26/02/2023,5616887,7531953,4574,2624,0
+1067,Dock Construction Project 67,Mumbai,Dock Construction,BlueWave Engineering,06/09/2022,31/03/2023,08/06/2023,9480039,10244968,2491,3318,35
+1068,Offshore Platform Project 68,Kandla,Offshore Platform,Coastal Infra,15/01/2023,31/07/2023,13/09/2023,8431986,9363213,1603,2720,23
+1069,Port Expansion Project 69,Visakhapatnam,Port Expansion,HarborWorks,16/04/2023,11/04/2024,10/04/2024,6653130,6891901,5774,3664,0
+1070,Breakwater Construction Project 70,Visakhapatnam,Breakwater Construction,Coastal Infra,23/03/2023,17/04/2024,29/06/2024,7970037,8595769,4140,2005,38
+1071,Port Expansion Project 71,Kochi,Port Expansion,Coastal Infra,07/09/2022,14/09/2023,23/10/2023,7780245,8869841,4255,1117,15
+1072,Offshore Platform Project 72,Chennai,Offshore Platform,Coastal Infra,06/08/2022,03/05/2023,24/07/2023,5167217,6094701,3790,3441,39
+1073,Offshore Platform Project 73,Kandla,Offshore Platform,ABC Marine Ltd,14/06/2023,28/01/2024,18/01/2024,5024641,6229324,5502,3274,0
+1074,Harbor Deepening Project 74,Tuticorin,Harbor Deepening,Coastal Infra,04/04/2023,20/04/2024,02/04/2024,3780588,4514701,3315,2656,0
+1075,Offshore Platform Project 75,Tuticorin,Offshore Platform,BlueWave Engineering,13/01/2023,10/11/2023,30/12/2023,7453695,8395518,4985,3254,16
+1076,Harbor Deepening Project 76,Kochi,Harbor Deepening,HarborWorks,15/09/2022,12/05/2023,07/05/2023,9050571,9358328,4084,1489,0
+1077,Dock Construction Project 77,Chennai,Dock Construction,OceanBuild Pvt Ltd,11/05/2023,16/01/2024,28/03/2024,7945813,9646299,3818,1411,38
+1078,Offshore Platform Project 78,Chennai,Offshore Platform,HarborWorks,03/07/2022,17/03/2023,26/02/2023,8939289,10679613,2536,2123,0
+1079,Port Expansion Project 79,Kandla,Port Expansion,HarborWorks,10/05/2022,18/04/2023,03/07/2023,7117788,7048071,1600,3351,23
+1080,Harbor Deepening Project 80,Visakhapatnam,Harbor Deepening,HarborWorks,08/07/2022,17/01/2023,29/01/2023,7007482,6985998,2035,2641,4
+1081,Breakwater Construction Project 81,Tuticorin,Breakwater Construction,ABC Marine Ltd,05/06/2022,09/01/2023,02/04/2023,7721440,8495818,2197,2016,20
+1082,Harbor Deepening Project 82,Kandla,Harbor Deepening,BlueWave Engineering,20/08/2022,02/09/2023,18/10/2023,6190842,7580436,5126,2217,25
+1083,Harbor Deepening Project 83,Kochi,Harbor Deepening,BlueWave Engineering,03/03/2022,02/02/2023,17/04/2023,3832431,4203956,3228,2083,34
+1084,Dock Construction Project 84,Chennai,Dock Construction,OceanBuild Pvt Ltd,20/07/2023,04/02/2024,04/02/2024,3022445,4235891,5190,3823,0
+1085,Offshore Platform Project 85,Mumbai,Offshore Platform,OceanBuild Pvt Ltd,23/10/2022,18/10/2023,03/11/2023,8897087,10301432,2083,3815,4
+1086,Offshore Platform Project 86,Tuticorin,Offshore Platform,BlueWave Engineering,22/07/2022,06/05/2023,30/04/2023,7568120,8011039,2720,2088,0
+1087,Port Expansion Project 87,Mumbai,Port Expansion,OceanBuild Pvt Ltd,11/11/2022,09/10/2023,23/12/2023,9914228,11801655,3864,2798,18
+1088,Offshore Platform Project 88,Tuticorin,Offshore Platform,Coastal Infra,06/10/2022,10/08/2023,28/09/2023,7142254,8478347,2158,3449,10
+1089,Harbor Deepening Project 89,Tuticorin,Harbor Deepening,HarborWorks,14/09/2022,19/03/2023,10/03/2023,4920357,6832916,1669,3753,0
+1090,Breakwater Construction Project 90,Mumbai,Breakwater Construction,OceanBuild Pvt Ltd,27/04/2023,04/03/2024,06/05/2024,6709689,7376362,2986,3397,23
+1091,Harbor Deepening Project 91,Mumbai,Harbor Deepening,Coastal Infra,23/12/2022,03/10/2023,25/10/2023,5693231,5631954,2817,2350,8
+1092,Harbor Deepening Project 92,Kochi,Harbor Deepening,Coastal Infra,18/07/2023,23/01/2024,01/03/2024,3738699,4557879,3567,2324,9
+1093,Harbor Deepening Project 93,Kandla,Harbor Deepening,ABC Marine Ltd,10/07/2023,03/05/2024,04/06/2024,3454696,3741474,5747,2481,14
+1094,Harbor Deepening Project 94,Tuticorin,Harbor Deepening,Coastal Infra,22/02/2022,12/10/2022,26/10/2022,7607188,7656697,3859,2794,7
+1095,Harbor Deepening Project 95,Mumbai,Harbor Deepening,ABC Marine Ltd,03/09/2022,30/08/2023,30/08/2023,5606761,7417147,1612,3262,0
+1096,Dock Construction Project 96,Mumbai,Dock Construction,Coastal Infra,01/05/2022,11/04/2023,06/07/2023,4291603,5881941,3890,3084,41
+1097,Harbor Deepening Project 97,Visakhapatnam,Harbor Deepening,Coastal Infra,07/09/2022,30/06/2023,19/08/2023,4213344,5322220,3061,3455,20
+1098,Dock Construction Project 98,Mumbai,Dock Construction,HarborWorks,01/03/2023,23/11/2023,11/02/2024,7259212,7879815,1521,2158,39
+1099,Breakwater Construction Project 99,Kandla,Breakwater Construction,Coastal Infra,02/06/2022,23/03/2023,10/05/2023,7062950,8010504,4223,3260,24
+1100,Harbor Deepening Project 100,Visakhapatnam,Harbor Deepening,HarborWorks,13/07/2022,06/07/2023,16/07/2023,7796586,8902882,3413,2682,2
+1101,Harbor Deepening Project 101,Tuticorin,Harbor Deepening,Coastal Infra,31/01/2023,15/01/2024,05/04/2024,9884929,10022904,5557,1151,20
+1102,Breakwater Construction Project 102,Kochi,Breakwater Construction,ABC Marine Ltd,27/03/2023,18/10/2023,04/12/2023,6832990,6397362,2680,2679,25
+1103,Dock Construction Project 103,Mumbai,Dock Construction,Coastal Infra,29/09/2022,22/06/2023,20/08/2023,8810827,9977992,2157,2345,31
+1104,Breakwater Construction Project 104,Visakhapatnam,Breakwater Construction,HarborWorks,15/05/2023,21/06/2024,09/08/2024,3301143,3088120,3423,3585,23
+1105,Offshore Platform Project 105,Chennai,Offshore Platform,ABC Marine Ltd,21/03/2023,12/10/2023,28/12/2023,8316262,8237819,5134,1681,36
+1106,Port Expansion Project 106,Mumbai,Port Expansion,HarborWorks,27/02/2022,09/11/2022,04/12/2022,6144394,7450825,2692,2000,10
+1107,Breakwater Construction Project 107,Tuticorin,Breakwater Construction,OceanBuild Pvt Ltd,24/06/2022,03/02/2023,24/01/2023,8112787,9217294,3472,3038,0
+1108,Dock Construction Project 108,Chennai,Dock Construction,Coastal Infra,18/09/2022,12/07/2023,24/07/2023,8593865,8133280,5311,2178,5
+1109,Dock Construction Project 109,Mumbai,Dock Construction,Coastal Infra,20/12/2022,15/11/2023,03/12/2023,8359806,9639486,3548,2871,9
+1110,Dock Construction Project 110,Visakhapatnam,Dock Construction,Coastal Infra,20/04/2022,16/12/2022,13/01/2023,7797635,8803218,3923,3864,8
+1111,Harbor Deepening Project 111,Kochi,Harbor Deepening,ABC Marine Ltd,03/08/2023,07/09/2024,13/11/2024,9528951,9234657,5569,2172,34
+1112,Dock Construction Project 112,Kandla,Dock Construction,HarborWorks,13/08/2022,21/07/2023,25/07/2023,8208412,8759616,2620,3573,0
+1113,Port Expansion Project 113,Kochi,Port Expansion,Coastal Infra,04/02/2022,29/12/2022,24/01/2023,9143479,9194660,2238,2208,8
+1114,Harbor Deepening Project 114,Chennai,Harbor Deepening,OceanBuild Pvt Ltd,16/05/2022,01/06/2023,20/07/2023,6069035,7795591,5610,2116,26
+1115,Offshore Platform Project 115,Visakhapatnam,Offshore Platform,HarborWorks,13/12/2022,02/01/2024,27/12/2023,6928648,6744476,2653,1924,0
+1116,Harbor Deepening Project 116,Kandla,Harbor Deepening,HarborWorks,03/04/2022,20/04/2023,20/05/2023,3116758,3725977,5895,1506,11
+1117,Offshore Platform Project 117,Kandla,Offshore Platform,Coastal Infra,16/01/2023,11/08/2023,16/10/2023,4961440,6438957,1705,3537,36
+1118,Breakwater Construction Project 118,Kochi,Breakwater Construction,BlueWave Engineering,15/08/2022,26/07/2023,14/07/2023,8330154,9777433,3975,3659,0
+1119,Dock Construction Project 119,Mumbai,Dock Construction,ABC Marine Ltd,08/11/2022,10/09/2023,04/09/2023,3815305,4300127,5903,1555,0
+1120,Offshore Platform Project 120,Tuticorin,Offshore Platform,BlueWave Engineering,06/03/2023,30/01/2024,14/04/2024,9095155,9243271,4898,3682,17
+1121,Harbor Deepening Project 121,Kandla,Harbor Deepening,Coastal Infra,14/10/2022,20/04/2023,27/06/2023,6108230,6519525,5132,2821,39
+1122,Offshore Platform Project 122,Mumbai,Offshore Platform,HarborWorks,12/07/2023,25/08/2024,26/10/2024,6008774,5762739,4761,2130,17
+1123,Port Expansion Project 123,Visakhapatnam,Port Expansion,ABC Marine Ltd,06/08/2022,16/07/2023,15/09/2023,8009223,7598802,1914,2366,18
+1124,Dock Construction Project 124,Kandla,Dock Construction,OceanBuild Pvt Ltd,12/03/2022,08/04/2023,24/06/2023,7649031,8017911,3269,1954,25
+1125,Dock Construction Project 125,Kandla,Dock Construction,ABC Marine Ltd,11/10/2022,14/11/2023,12/11/2023,4090453,5856280,3553,1714,0
+1126,Port Expansion Project 126,Chennai,Port Expansion,ABC Marine Ltd,02/01/2023,19/01/2024,08/04/2024,4995914,6965742,4152,1064,21
+1127,Port Expansion Project 127,Chennai,Port Expansion,Coastal Infra,23/06/2023,18/01/2024,02/04/2024,3533163,5030683,5172,2482,30
+1128,Port Expansion Project 128,Visakhapatnam,Port Expansion,BlueWave Engineering,15/08/2022,18/07/2023,03/07/2023,9100556,10787680,3970,2876,0
+1129,Port Expansion Project 129,Mumbai,Port Expansion,Coastal Infra,16/02/2023,02/12/2023,07/02/2024,3905649,5461985,5133,1301,37
+1130,Offshore Platform Project 130,Kandla,Offshore Platform,OceanBuild Pvt Ltd,09/03/2022,07/10/2022,22/10/2022,8237154,10192351,5992,3916,4
+1131,Breakwater Construction Project 131,Kandla,Breakwater Construction,HarborWorks,10/04/2023,13/02/2024,10/04/2024,6608773,6524757,2437,3681,26
+1132,Breakwater Construction Project 132,Tuticorin,Breakwater Construction,OceanBuild Pvt Ltd,17/03/2023,06/01/2024,15/01/2024,6471319,7392901,5215,2633,3
+1133,Port Expansion Project 133,Kochi,Port Expansion,Coastal Infra,17/11/2022,02/11/2023,14/11/2023,6139864,6280078,5385,1274,2
+1134,Port Expansion Project 134,Mumbai,Port Expansion,Coastal Infra,09/04/2022,14/04/2023,27/06/2023,6125988,6171731,1991,3402,43
+1135,Breakwater Construction Project 135,Kochi,Breakwater Construction,ABC Marine Ltd,25/02/2023,22/11/2023,26/01/2024,9293840,10567765,1921,2178,28
+1136,Offshore Platform Project 136,Mumbai,Offshore Platform,BlueWave Engineering,04/06/2023,24/01/2024,23/01/2024,8509103,10031551,3337,1443,0
+1137,Breakwater Construction Project 137,Kochi,Breakwater Construction,ABC Marine Ltd,13/10/2022,04/09/2023,12/09/2023,9771463,11071290,1715,3494,4
+1138,Offshore Platform Project 138,Mumbai,Offshore Platform,OceanBuild Pvt Ltd,07/10/2022,01/10/2023,17/12/2023,5591951,6517278,4375,1025,20
+1139,Dock Construction Project 139,Kandla,Dock Construction,Coastal Infra,13/03/2022,15/10/2022,28/12/2022,8311431,7940016,2251,3172,21
+1140,Harbor Deepening Project 140,Visakhapatnam,Harbor Deepening,HarborWorks,11/06/2022,12/03/2023,31/03/2023,9053185,9913745,2195,1215,4
+1141,Breakwater Construction Project 141,Mumbai,Breakwater Construction,ABC Marine Ltd,06/10/2022,26/07/2023,28/09/2023,6556893,8093905,5121,2696,19
+1142,Breakwater Construction Project 142,Mumbai,Breakwater Construction,HarborWorks,17/03/2023,11/10/2023,27/10/2023,8689304,10677089,5486,3158,7
+1143,Port Expansion Project 143,Chennai,Port Expansion,Coastal Infra,26/02/2022,26/08/2022,01/09/2022,5528488,5914467,2624,2046,1
+1144,Port Expansion Project 144,Mumbai,Port Expansion,Coastal Infra,17/03/2023,27/10/2023,23/10/2023,6189411,7923223,3385,3049,0
+1145,Offshore Platform Project 145,Mumbai,Offshore Platform,Coastal Infra,13/02/2022,01/12/2022,13/11/2022,6856698,6683277,4064,3358,0
+1146,Harbor Deepening Project 146,Tuticorin,Harbor Deepening,Coastal Infra,24/10/2022,21/05/2023,21/06/2023,3174957,4037133,2907,3531,11
+1147,Offshore Platform Project 147,Mumbai,Offshore Platform,Coastal Infra,19/04/2022,17/12/2022,21/01/2023,7939810,9119418,5792,1322,12
+1148,Offshore Platform Project 148,Tuticorin,Offshore Platform,HarborWorks,15/08/2022,07/05/2023,25/07/2023,4410399,4230757,5681,3593,19
+1149,Breakwater Construction Project 149,Chennai,Breakwater Construction,HarborWorks,26/12/2022,27/12/2023,20/03/2024,8414368,8533824,3435,1421,21
+1150,Dock Construction Project 150,Chennai,Dock Construction,BlueWave Engineering,06/06/2022,15/06/2023,31/08/2023,8498808,8314862,2951,3572,30
+1151,Breakwater Construction Project 151,Kandla,Breakwater Construction,Coastal Infra,02/08/2023,11/07/2024,10/09/2024,8238868,9094501,4089,1618,22
+1152,Harbor Deepening Project 152,Visakhapatnam,Harbor Deepening,HarborWorks,09/10/2022,05/09/2023,23/08/2023,5952305,7580230,2107,2271,0
+1153,Port Expansion Project 153,Mumbai,Port Expansion,HarborWorks,21/10/2022,08/05/2023,09/07/2023,3757461,5749212,5653,2574,23
+1154,Breakwater Construction Project 154,Tuticorin,Breakwater Construction,ABC Marine Ltd,06/04/2023,22/05/2024,13/08/2024,7795403,8084936,4133,3478,32
+1155,Dock Construction Project 155,Mumbai,Dock Construction,Coastal Infra,16/04/2022,08/05/2023,03/08/2023,5880964,5734666,5633,3646,23
+1156,Dock Construction Project 156,Tuticorin,Dock Construction,Coastal Infra,26/03/2023,03/02/2024,20/03/2024,8115418,8281247,4481,2527,26
+1157,Harbor Deepening Project 157,Visakhapatnam,Harbor Deepening,HarborWorks,23/02/2022,12/03/2023,11/05/2023,8429990,9333611,2039,2350,14
+1158,Harbor Deepening Project 158,Kochi,Harbor Deepening,HarborWorks,03/06/2022,23/02/2023,13/02/2023,7888373,7981566,4365,2270,0
+1159,Harbor Deepening Project 159,Chennai,Harbor Deepening,BlueWave Engineering,28/03/2022,12/12/2022,01/02/2023,6159815,7037545,2546,3744,24
+1160,Breakwater Construction Project 160,Mumbai,Breakwater Construction,Coastal Infra,05/06/2023,03/03/2024,14/02/2024,6041689,6837167,2976,1877,0
+1161,Harbor Deepening Project 161,Chennai,Harbor Deepening,OceanBuild Pvt Ltd,21/05/2022,26/12/2022,15/12/2022,5481283,5405498,5658,3210,0
+1162,Breakwater Construction Project 162,Mumbai,Breakwater Construction,HarborWorks,15/05/2022,12/04/2023,10/05/2023,4293965,4474479,2981,3837,14
+1163,Dock Construction Project 163,Tuticorin,Dock Construction,Coastal Infra,14/02/2022,26/11/2022,22/12/2022,8673743,9170016,5138,3500,8
+1164,Harbor Deepening Project 164,Chennai,Harbor Deepening,BlueWave Engineering,02/09/2022,19/05/2023,10/08/2023,9579774,11046968,3089,2506,39
+1165,Breakwater Construction Project 165,Visakhapatnam,Breakwater Construction,Coastal Infra,16/10/2022,30/10/2023,27/11/2023,7218687,8931013,4929,1663,14
+1166,Breakwater Construction Project 166,Chennai,Breakwater Construction,HarborWorks,23/02/2022,02/02/2023,15/03/2023,6113952,7939864,2340,3913,22
+1167,Port Expansion Project 167,Kochi,Port Expansion,ABC Marine Ltd,14/06/2022,18/02/2023,27/03/2023,7306314,7424339,5083,1375,21
+1168,Dock Construction Project 168,Visakhapatnam,Dock Construction,HarborWorks,28/01/2022,10/11/2022,27/10/2022,6325696,7931266,4563,1965,0
+1169,Port Expansion Project 169,Kochi,Port Expansion,OceanBuild Pvt Ltd,29/01/2022,17/10/2022,09/10/2022,8995373,9901682,2696,1563,0
+1170,Harbor Deepening Project 170,Tuticorin,Harbor Deepening,OceanBuild Pvt Ltd,26/04/2023,14/02/2024,12/04/2024,3044050,2876346,1655,2048,16
+1171,Dock Construction Project 171,Kandla,Dock Construction,BlueWave Engineering,25/06/2023,08/04/2024,02/04/2024,9511007,10219392,3446,2233,0
+1172,Dock Construction Project 172,Visakhapatnam,Dock Construction,BlueWave Engineering,14/04/2023,27/10/2023,21/10/2023,7192871,8941243,1634,3588,0
+1173,Dock Construction Project 173,Tuticorin,Dock Construction,OceanBuild Pvt Ltd,26/10/2022,11/08/2023,22/07/2023,8157396,9137213,3470,3337,0
+1174,Port Expansion Project 174,Kandla,Port Expansion,HarborWorks,11/03/2022,19/01/2023,09/03/2023,7255773,8884896,1666,2599,26
+1175,Port Expansion Project 175,Tuticorin,Port Expansion,Coastal Infra,18/01/2023,19/09/2023,03/12/2023,3136249,4134009,2053,2412,22
+1176,Port Expansion Project 176,Kandla,Port Expansion,HarborWorks,17/05/2022,24/11/2022,19/12/2022,7580295,8500265,2934,3804,9
+1177,Harbor Deepening Project 177,Tuticorin,Harbor Deepening,OceanBuild Pvt Ltd,19/05/2022,01/12/2022,10/02/2023,9511156,10930803,1802,2201,19
+1178,Dock Construction Project 178,Mumbai,Dock Construction,HarborWorks,14/11/2022,21/09/2023,21/10/2023,9840121,11617756,5378,2037,6
+1179,Dock Construction Project 179,Kochi,Dock Construction,HarborWorks,18/02/2022,26/03/2023,28/05/2023,5784386,6430339,2519,2507,23
+1180,Harbor Deepening Project 180,Tuticorin,Harbor Deepening,Coastal Infra,31/01/2023,24/10/2023,27/10/2023,7162454,8749218,4509,3126,0
+1181,Port Expansion Project 181,Tuticorin,Port Expansion,Coastal Infra,22/03/2022,06/01/2023,04/03/2023,9898298,10155187,5968,2203,18
+1182,Port Expansion Project 182,Kochi,Port Expansion,HarborWorks,10/11/2022,31/08/2023,27/10/2023,9020192,10307452,2865,3825,21
+1183,Harbor Deepening Project 183,Mumbai,Harbor Deepening,HarborWorks,22/03/2023,27/11/2023,27/01/2024,9639397,9379974,2114,3749,27
+1184,Offshore Platform Project 184,Kandla,Offshore Platform,OceanBuild Pvt Ltd,01/02/2022,05/09/2022,02/12/2022,8096690,9434520,1785,1517,19
+1185,Offshore Platform Project 185,Kochi,Offshore Platform,Coastal Infra,04/08/2023,08/02/2024,05/04/2024,4287132,5674244,4538,2523,21
+1186,Port Expansion Project 186,Kandla,Port Expansion,OceanBuild Pvt Ltd,27/06/2023,26/03/2024,25/04/2024,5637256,6306165,3544,1464,6
+1187,Dock Construction Project 187,Visakhapatnam,Dock Construction,BlueWave Engineering,01/02/2023,20/03/2024,10/05/2024,3987850,4585820,3632,3883,19
+1188,Breakwater Construction Project 188,Kochi,Breakwater Construction,Coastal Infra,24/07/2022,20/02/2023,17/02/2023,3621193,5017197,2914,3921,0
+1189,Port Expansion Project 189,Tuticorin,Port Expansion,HarborWorks,22/12/2022,18/12/2023,06/12/2023,7613710,9387741,3878,2228,0
+1190,Dock Construction Project 190,Kochi,Dock Construction,BlueWave Engineering,18/08/2022,17/03/2023,22/03/2023,9644328,9726819,3439,3023,1
+1191,Breakwater Construction Project 191,Kandla,Breakwater Construction,HarborWorks,24/04/2023,13/05/2024,02/07/2024,4088599,3950212,2038,2266,17
+1192,Harbor Deepening Project 192,Kandla,Harbor Deepening,Coastal Infra,24/02/2023,20/03/2024,12/05/2024,3618665,3644323,4097,3631,12
+1193,Harbor Deepening Project 193,Tuticorin,Harbor Deepening,BlueWave Engineering,19/12/2022,19/07/2023,13/10/2023,9545319,11357653,2990,1528,32
+1194,Port Expansion Project 194,Mumbai,Port Expansion,BlueWave Engineering,06/06/2022,18/02/2023,19/02/2023,4358677,5212014,3347,2417,0
+1195,Breakwater Construction Project 195,Kochi,Breakwater Construction,ABC Marine Ltd,14/09/2022,02/05/2023,02/07/2023,7620792,8271923,2525,3560,19
+1196,Breakwater Construction Project 196,Mumbai,Breakwater Construction,BlueWave Engineering,22/06/2022,19/05/2023,12/07/2023,4293475,4511542,4265,3308,11
+1197,Port Expansion Project 197,Mumbai,Port Expansion,ABC Marine Ltd,14/08/2023,17/04/2024,19/06/2024,4768388,6668105,4912,3531,28
+1198,Harbor Deepening Project 198,Tuticorin,Harbor Deepening,BlueWave Engineering,24/10/2022,03/10/2023,21/10/2023,7051234,7578326,4826,2218,6
+1199,Port Expansion Project 199,Chennai,Port Expansion,Coastal Infra,02/03/2023,30/12/2023,07/02/2024,4711469,5638340,2676,2280,21
+1200,Offshore Platform Project 200,Tuticorin,Offshore Platform,HarborWorks,13/02/2023,14/09/2023,30/11/2023,6108316,7768299,2369,2307,22
